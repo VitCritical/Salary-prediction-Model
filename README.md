@@ -18,8 +18,7 @@ The model uses multiple features to capture different aspects of an employee's p
 ## 📂 Project Structure  
 
 - `Employe_Performance_dataset.csv` → Dataset containing employee features and salary information  
-- `Salary prediction notebook.ipynb` → Jupyter Notebook with complete ML workflow (data preprocessing, model training, evaluation)  
-- `README.md` → Project documentation  
+- `README.md` → Project documentation and link to Jupyter Notebook with complete ML workflow (data preprocessing, model training, evaluation)  
 
 ---
 
