@@ -1,7 +1,7 @@
 # 💼 Salary Prediction Model
 
 **Project File: https://colab.research.google.com/drive/1zZhyFMuXrXDgkCO20zYk9zwvYontkQ7S?usp=sharing**
-**Note: The datasets have been acquired from kaggle.com and have been uploaded to this repo.**
+**Note: The dataset has been acquired from kaggle.com and has been uploaded to this repo.**
 
 This project implements a **prediction model using Linear Regression** to estimate an employee's salary.  
 The model uses multiple features to capture different aspects of an employee's profile:  
